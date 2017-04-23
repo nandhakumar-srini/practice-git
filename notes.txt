@@ -1,3 +1,11 @@
+added
+
+B from branch
+B
+A
+A
+D
+A
 <<<<<<< Updated upstream
 added after stash
 =======
