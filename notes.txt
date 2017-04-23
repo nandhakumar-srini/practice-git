@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 added after stash
+=======
+line6
+line 7
+>>>>>>> Stashed changes
 line 4
 
 line 5
